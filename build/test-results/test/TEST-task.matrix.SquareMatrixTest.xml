@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="task.matrix.SquareMatrixTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-01-03T09:48:10" hostname="PERSONALPC" time="0.036">
+  <properties/>
+  <testcase name="test2x2Ok()" classname="task.matrix.SquareMatrixTest" time="0.019"/>
+  <testcase name="test3x3Ok()" classname="task.matrix.SquareMatrixTest" time="0.001"/>
+  <testcase name="testIncorrectSize()" classname="task.matrix.SquareMatrixTest" time="0.004"/>
+  <testcase name="testIncorrectIndex()" classname="task.matrix.SquareMatrixTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
