@@ -16,7 +16,6 @@ public class Main {
 			String sizeStr = reader.readLine();
 			int size = Integer.parseInt(sizeStr);
 			threads[i] = new Thread(new CalculationThread(size));
-			System.out.println();
 		}
 		System.out.println();
 		System.out.println();

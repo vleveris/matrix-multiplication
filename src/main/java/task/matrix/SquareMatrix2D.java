@@ -1,6 +1,6 @@
 package task.matrix;
 
-public class SquareMatrix2D extends SquareMatrix implements IMatrix, ISquareMatrix {
+public class SquareMatrix2D extends SquareMatrix {
 	private int[][] table;
 
 	public SquareMatrix2D(int size) {

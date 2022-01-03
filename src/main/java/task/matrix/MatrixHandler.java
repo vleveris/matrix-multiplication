@@ -14,8 +14,7 @@ public class MatrixHandler {
 	}
 
 	public IMatrix multiply(boolean d2) throws IllegalArgumentException {
-		boolean compatible = areCompatible(first, second);
-		if (!compatible) {
+		if (!areCompatible(first, second)) {
 			throw new IllegalArgumentException("Matrices are not compatible.");
 		}
 		int rows = first.getRows();

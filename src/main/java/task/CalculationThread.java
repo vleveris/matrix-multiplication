@@ -30,7 +30,7 @@ public class CalculationThread implements Runnable {
 		generator.setMatrix(matrix2);
 		generator.generateRandom(1, 100);
 		MatrixHandler operations = new MatrixHandler(matrices);
-		IMatrix result = operations.multiply(true);
+		 operations.multiply(true);
 		Instant finish = Instant.now();
 		long duration = Duration.between(start, finish).toMillis();
 		System.out.println("size = " + size + ", duration: " + duration / 1000 + " s " + duration % 1000 + " ms.");
