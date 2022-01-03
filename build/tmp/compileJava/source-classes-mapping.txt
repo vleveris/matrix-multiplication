@@ -1,0 +1,22 @@
+task/matrix/ValidationResult.java
+ task.matrix.ValidationResult
+task/matrix/MatrixGenerator.java
+ task.matrix.MatrixGenerator
+task/matrix/IMatrix.java
+ task.matrix.IMatrix
+task/CalculationThread.java
+ task.CalculationThread
+task/matrix/SquareMatrix.java
+ task.matrix.SquareMatrix
+task/matrix/MatrixHandler.java
+ task.matrix.MatrixHandler
+task/matrix/ISquareMatrix.java
+ task.matrix.ISquareMatrix
+task/matrix/SquareMatrix2D.java
+ task.matrix.SquareMatrix2D
+task/matrix/SquareMatrix1D.java
+ task.matrix.SquareMatrix1D
+task/matrix/MatrixType.java
+ task.matrix.MatrixType
+task/Main.java
+ task.Main
